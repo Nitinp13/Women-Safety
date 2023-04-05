@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "810993289272",
+    "project_id": "women-safety-nitin",
+    "storage_bucket": "women-safety-nitin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810993289272:android:9e2df5941dcb0e673b3ecd",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810993289272-sj9fhlgqe09a8tp0gl7mlbcppfldp5pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpage",
+            "certificate_hash": "c62f6cc6a5273be045e31d5235eed7dc5d945957"
+          }
+        },
+        {
+          "client_id": "810993289272-ugn0g80ev9hvsipc6hqkskisr56tgk1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tMQwRoBOQ2JQ558pHLJsOgWodWhvWzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810993289272-ugn0g80ev9hvsipc6hqkskisr56tgk1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
